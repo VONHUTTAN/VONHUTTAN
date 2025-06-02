@@ -7,6 +7,7 @@
 
 ## 🚀 Dự án tiêu biểu
 
+https://github.com/VONHUTTAN/D-n-h-tr-l-i-xe-/blob/main/D%E1%BB%B1_%C3%A1n_h%E1%BB%97_tr%E1%BB%A3_l%C3%B9i_xe.md
 ### 🔧 Hệ thống giám sát nhiệt độ từ xa – ESP32 + Blynk
 - Đọc nhiệt độ từ cảm biến DHT11
 - Gửi dữ liệu lên app Blynk qua WiFi
