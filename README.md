@@ -1,4 +1,4 @@
-## 👋 Xin chào! Mình là VÕ NHỰT  
+## 👋 Xin chào! Mình là VÕ NHỰT TÂN  
 
 🎓 Sinh viên ngành Kỹ thuật điều khiển & Tự động hóa  
 🏫 Đại học Cần Thơ (Niên khóa 2024–2028)  
